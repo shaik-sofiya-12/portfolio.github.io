@@ -8,6 +8,8 @@ body {
     background-attachment: fixed;
     color: #ffffff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     max-width: 100%;
+    overflow-x: hidden;
 }
 .navbar-brand{
     color: #00d1b2 !important;
